@@ -109,11 +109,11 @@ There is no universally recognised definition of risk.  It can have many differe
 |No |Fundamental | 
 
 
-All *insurable* risks must also have the following Risk Features:  
-A Fortuitous Event.  
-An Insurable Interest.  
-A risk that is not against public policy.   
-A Homogenous Exposure, i.e. not a one-off.  
+All *insurable* risks must also meet the following Risk Features:  
+Have a Fortuitous Event.  
+Have an Insurable Interest.  
+Have a risk that is not against public policy.  
+Have a Homogenous Exposure, i.e. not a one-off.  
 
 ### Risk Category
 Only Financial, Pure and Particular risk can be insured.  

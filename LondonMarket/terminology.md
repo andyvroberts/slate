@@ -50,7 +50,7 @@ For example, it is only possible for you to insure your own car, and not a car b
 |-|-|
 |Primary |Spread risk between the insured, insurance companies and reinsurance companies. |
 |Primary |Provide a degree of certainty in exchange for a premium payment. |
-|Primary |Transfer or risk.  An insurer will accept financial risk and charge a premium in return. |
+|Primary |Transfer of risk.  An insurer will accept financial risk and charge a premium in return. |
 |Secondary |No need to set aside large sums of money for dealing with losses. |
 |Secondary |Provides the confidence for companies to expand their businesses. |
 |Secondary |Job protection through compensation in the event of an unfortunate event. |

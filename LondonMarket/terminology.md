@@ -1,5 +1,8 @@
 # Glossary
 
+### Benefit (Policy)
+
+
 ### Compulsory Insurance  
 Some types of insurance are mandated through either governaments or regulatory bodies.  
 For example, car insurance, employers liability.
@@ -53,11 +56,13 @@ For example, property construction quality, age of car drivers.
 Arises from the attitude and behaviour of people.  
 For example, careless or lax management in a factory represents poor moral hazard.  
 
-
 ### Homogenous Exposure (risk feature)
 Historical patterns and trends of similar exposures and risks enable insurers to forecast (see the law of large numbers) the expected extent of future losses.  
   
 Whereas a fortuitous event, insurable interest and not being against public policy are absolute requirements as risk features, a Homogenous Exposure is only an ideal.  
+
+### Indemnity (Policy)
+To provide the specific financial compensation that restores the financial position of an insured, as if the loss had not happened.  Indemnification ensures that the insured cannot make a profit from a loss.  However, not all insurance policies are contracts of indemnity.  
 
 ### Inception
 When the insurance contract comes into effect.  Usually a mutually agreed date.  
@@ -100,6 +105,16 @@ For example, a factory fire, a car collision, theft of personal possessions, etc
 If a risk event occurs for an insured, a peril may give rise to a loss.  
 For example, a fire, flood, explosion, lightening, collision, dishonesty.  Perils may be named as the cause of a loss.  
 
+|Peril Category |Definition |
+|-|-|
+|Insured Peril |Named in the policy as covered |
+|Excepted/Excluded Peril |Named in the policy as specifically not covered |
+|Uninsured/Unnamed Peril |Those perils not mentioned at all in the policy |  
+
+Claims are assessed based on which category was the [Proximate Cause](#proximate-cause) of the loss.  For complex polices where various perils are insured under differing conditions, the following rules apply:
+1. if one of the perils is excluded then no claim is paid
+2. if one of the perils is not mentioned (neither inlcuded nor excluded) then the whole claim will be paid  
+  
 ### Pooling of Risk
 The losses of a few insured clients who suffer misfortune are covered by the contributions of the many insured clients who, although exposed to similar risks, do not need to make a claim.  
 
@@ -109,6 +124,13 @@ An insurer who gathers many small individual sums of money from those who want t
 Constructed by an insurer in order to discover all relevant information relating to a risk.  Usually these are sets of questions used to obtain material disclosures from the Proposer.  
 
 In the London Market, risk are not placed using a proposal form, but by using a [Market Reform Contract](#market-reform-contract).  
+
+### Proximate Cause
+The dominant cause ([peril](#peril)) of a loss resulting in a claim.  
+
+An insurance policy covers a particular loss (risk/liability) caused by an insured peril.  If the peril is covered by the policy, then a claim will be paid.  For example, an earthquake may cause a fire that damages a house.  The house insurance policy covers fire but does not cover earthquakes.  Because the fire was caused by the earthquake (there would otherwise have been no fire), it is the earthquake that is the *Proximate Cause*, and a claim will not be paid.
+
+Therefore, the valid relationship between the cause and the loss is called the proximate cause.
 
 ### Public Policy (risk feature)
 An insurer must not cover risks that are against public policy.  
@@ -145,14 +167,9 @@ The identification, analysis and economic control of defined risks which can thr
 ### Risk Transfer
 The process of insurance.  Where a third party assumes the financial consequences of a risk occuring.
 
-### Service Industry
-
-
 ### Severity
 The seriousness of the consequences when a risk occurs.  Usually measured as a financial value.  
 
 ### Speculative Risk (risk cateory)
 Speculation with the intent of making a financial gain cannot be insured.  
 For example, investments, gambling, starting a business, etc.  
-
-### Uncertainty

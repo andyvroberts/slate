@@ -1,6 +1,6 @@
 # Data Models
 
 ## Industries:
-[1. London Market Insurance](LondonMarket/capture.md)
+[1. London Market Insurance](LondonMarket/terminology.md)
 
 
